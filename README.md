@@ -1,6 +1,6 @@
 # flutter_appnew
 
-A new Flutter application.
+A healthcare app ui using flutter.
 
 ## Getting Started
 
